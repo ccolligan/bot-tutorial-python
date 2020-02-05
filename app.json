@@ -2,9 +2,4 @@
   "name": "TaggerBot app.json",
   "description": "THIS BETTER WORK",
   "repository": "https://github.com/aaamoeba/bot-tutorial-python.git"
-  "env": {
-    "BOT_ID": {
-      "value": "2559d7a3d2f3947d5176d3d240"
-    }
-  }
 }
